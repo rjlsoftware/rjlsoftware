@@ -18,6 +18,7 @@
 * :earth_africa: Showcase [portfolio](https://rjlweb.com/) 
 * :writing_hand: My [Resume](https://rjlindelof.com/) 
 * :mailbox: Hire [me](https://rjl.guru/), contact info
+* :pushpin: I've built a Javascript [404 page creator](https://rjl.codes/) you can use now, soon to be on GitHub
 
 :rofl: I do like humor and have built several fun sites :joy:
 * :bulb: [Waterfall Conference](https://waterfallconf.com) - poking fun at Agile, suggesting Waterfall is making a comeback
