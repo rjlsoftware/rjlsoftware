@@ -3,8 +3,6 @@
 
 :zap: As I expand my expertise in AI and machine learning, I'm focused on the practical and responsible integration of AI tools across the software development lifecycle. From code generation to test automation and product optimization. I evaluate AI's capabilities not just as accelerators--but as tools that require critical thinking, awareness of bias, and respect for data privacy. I am actively developing internal guidelines that promote ethical adoption, protect sensitive data, and help teams use AI intentionally and responsibly.
 
-:hammer_and_wrench: My tech toolkit is always growing my latest passion is AI/ML. I am also advocate of JavaScript using React, React Native, NodeJS, Vue.js, and Angular. 
-
 :thumbsup: I am always looking for new opportunities. Let's connect and build the future together! 🌟
 
 :thinking: When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. I thrive in Agile environments, where I've helped teams grow, learn, measure and mentor each other. 
