@@ -1,22 +1,23 @@
-# Hi :wave: I am RJ Lindelof! :facepunch:
-:fire: As a seasoned leader with decades of experience, I am passionate about building and scaling high-performing global engineering teams by championing a world-class Developer Experience (DevEx). My approach centers on investing in robust CI/CD, comprehensive observability, and empowering self-service tooling, which together reduce friction, enable faster and safer deploys, and deliver better feedback loops across the entire engineering organization. I achieve this by fostering a culture of excellence and collaboration, uniting diverse talent-from onshore to offshore, full-time staff to strategic partners-to deliver exceptional platform services.
 
-:zap: As I expand my expertise in AI and machine learning, I'm focused on the practical and responsible integration of AI tools across the software development lifecycle. From code generation to test automation and product optimization. I evaluate AI's capabilities not just as accelerators--but as tools that require critical thinking, awareness of bias, and respect for data privacy. I am actively developing internal guidelines that promote ethical adoption, protect sensitive data, and help teams use AI intentionally and responsibly.
+# Hi :wave: I am RJ Lindelof! :facepunch:
+:fire: As a seasoned leader, I build and scale high-performing global engineering teams by championing a world-class Developer Experience (DevEx). My approach centers on investing in robust CI/CD, comprehensive observability, and empowering self-service tooling, which reduces friction and enables faster, safer deploys.
+
+:zap: I integrate AI and machine learning into the software development lifecycle to accelerate these efforts, building systems that augment existing tools and designing AI agents that live within the delivery pipeline. I focus on developing practical, AI-driven solutions like autonomous QA agents and onboarding copilots while also actively establishing guidelines that promote ethical adoption, protect sensitive data, and help teams use AI responsibly.
 
 :thumbsup: I am always looking for new opportunities. Let's connect and build the future together! 🌟
 
-:thinking: When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. I thrive in Agile environments, where I've helped teams grow, learn, measure and mentor each other. 
 * :necktie:  Professional [LinkedIn](https://www.linkedin.com/in/rjlindelof/)  
-* :earth_africa: Summary of [links](https://rjl.link/) to my work
-* :writing_hand: My [Resume](https://rjl.bio/) site
-* :beetle: My software engineering [leadership approach](https://rjl.dev/) 
-* :mailbox: Open to consulting [contact me](https://rjl.guru/)
-* :eye_speech_bubble: Everyone wants to be a [ninja](https://rjl.ninja/)
-* :gem: Some of my [ai experiments](https://rjl.ai/), private playground
+* :writing_hand: [RJL.bio](https://rjl.bio/) Broader view of my leadership background, career arc, and how I approach strategy, execution, and organizational transformation
+* :gem: [RJL.ai](https://rjl.ai/) Outlines my philosophy on embedding AI throughout the software development lifecycle and how I help teams ship smarter, not just faster
+* :beetle: [RJL.dev](https://rjl.dev/) Focuses on how I build and lead high-performing engineering teams, with practical approaches to developer experience, platform modernization, and sustainable velocity
+* :mailbox:  [RJL.guru](https://rjl.guru/) Strategic technology consulting and leadership services to help companies accelerate engineering, modernize platforms, and integrating AI into their SDLC
+* :eye_speech_bubble: [RJL.ninja](https://rjl.ninja/) Because every developer wants to be a ninja
 * :spider_web: I've built a Javascript [404 page creator](https://rjl.codes/) you can use now, listed here on [GitHub](https://github.com/rjlsoftware/RJLCustom404)
+* :earth_africa: Summary of [links](https://rjl.link/) to some of my other projects/work
 
 :rofl: I do like humor and have built several fun sites :joy:
-* :chipmunk: [The Squirrel Stack](https://squirrelstack.dev/) - A parody project designed to poke fun at the ever-changing, overly-hyped world of software engineering
+* :alien: [RJL.sh](https://rjl.sh/) - RJL OS v0.0.1 Designed for dreamers, glitchers, and anyone allergic to productivity
+* :chestnut: [The Squirrel Stack](https://squirrelstack.dev/) - A parody project designed to poke fun at the ever-changing, overly-hyped world of software engineering
 * :computer: [Waterfall Conference](https://waterfallconf.com) - Poking fun at Agile, suggesting Waterfall is making a comeback. Customize your own [crazy conference](https://annualconf.com/reset/)
 * :office: [BestJob.work](https://bestjob.work/) - A fake corporate careers website. Contributing to initiatives so groundbreakingly vague they defy conventional understanding
 * :hourglass: [Costly Meeting](https://costlymeeting.com) - Simplistic full screen stopwatch counting how much money this meeting is wasting
