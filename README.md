@@ -88,7 +88,7 @@ Shipping serious software does not require taking yourself seriously. :joy:
   <a href="https://costlymeeting.com/"><img src="assets/cards/costlymeeting.png" alt="CostlyMeeting.com: watch how much the meeting is costing in real time." width="32%"></a>
   <a href="https://bestjob.work/"><img src="assets/cards/bestjob.png" alt="BestJob.work: a fake corporate careers site with gloriously vague initiatives." width="32%"></a>
   <a href="https://thisisalongwebsitename.fyi/"><img src="assets/cards/longwebsitename.png" alt="ThisIsALongWebsiteName.fyi: harder to type than it looks. Typing challenge, fake science, and domain-length overengineering." width="32%"></a>
-  <a href="https://jimmyketchup.com/"><img src="assets/cards/jimmyketchup.png" alt="Jimmy Ketchup: A French Fry Frenzy, a children's book about the world's biggest french fry fan." width="32%"></a>
+  <a href="https://jimmyketchup.com/"><img src="assets/cards/jimmyketchup.png" alt="Meet Jimmy Ketchup: small packet, big adventures. The world's biggest french fry fan." width="32%"></a>
   <a href="https://fakenewsmaker.com/"><img src="assets/cards/fakenewsmaker.png" alt="Fake News Maker: create realistic-looking breaking news images in seconds." width="32%"></a>
   <a href="https://gen2.at/"><img src="assets/cards/gen2.png" alt="Gen2 Games: the next generation gaming experience." width="32%"></a>
 </p>

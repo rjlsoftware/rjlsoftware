@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.2] - 10-08-2026 at 6:05pm
+
+- Refreshed the Jimmy Ketchup humor card from the site's new OG image ("Small packet. Big adventures.") and updated its alt text to match.
+
 ## [1.0.1] - 10-08-2026 at 5:48pm
 
 - Renamed the tools section to "Tools, References & Technology" and reworked its 3-up grid: added NowUTC, OldClock.digital, and ASCIILogo as tool cards and NewStack.dev, NewStack.ai, and JSON5.dev as technology cards; removed AIPrompts.free, Scan.camera, and SecretNetflix.codes.
