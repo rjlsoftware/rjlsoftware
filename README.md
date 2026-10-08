@@ -11,7 +11,7 @@
 
 :fire: 20+ years scaling SaaS platforms across Healthcare, EdTech, and regulated B2B. 13 years as an IC before management (Java, JavaScript, Node, .NET, Delphi, C++) and I still spin up local dev environments, review PRs, and prototype alongside my teams. Player-coach by conviction, not by title.
 
-:zap: I move AI from pilot to production as a delivery system, not a sandbox toolset. Claude Code, GitHub Copilot, AWS Kiro, and GitHub Actions run as first-class CI/CD stages. Multi-model fluency, no single-vendor dependency. Recent operating indicators from leading SaaS engineering through an AI-native transformation: 5x deploy frequency, 23% PR throughput gain, code coverage from under 10% to 40% with no dedicated QA team, new-engineer onboarding cut 70%.
+:zap: I move AI from pilot to production as a delivery system, not a sandbox toolset. GitHub Copilot, AWS Kiro, and GitHub Actions run as first-class CI/CD stages. Multi-model fluency, no single-vendor dependency. Recent operating indicators from leading SaaS engineering through an AI-native transformation: 5x deploy frequency, 23% PR throughput gain, code coverage from under 10% to 40% with no dedicated QA team, new-engineer onboarding cut 70%.
 
 :shield: Compliance under regulated weight: HIPAA, SOC 2, ISO 27001, HL7/FHIR, Epic EMR integration. Federal-grade reliability shipped to the VA and the White House Medical Unit.
 
@@ -43,7 +43,7 @@ A multi-site network covering leadership philosophy, AI strategy, platform moder
 
 ## :books: Tech Journey
 
-My long-form guide to AI-native development: Claude Code, agentic workflows, MCP, context and intent engineering, evals, and the production patterns that make AI actually ship. Click the image to start reading.
+My long-form guide to AI-native development: agentic workflows, MCP, context and intent engineering, evals, and the production patterns that make AI actually ship. Click the image to start reading.
 
 <a href="https://rjl.pub/"><img src="assets/cards/rjl-pub.png" alt="Tech Journey by RJ Lindelof: practical AI-assisted software development, at RJL.pub." width="100%"></a>
 

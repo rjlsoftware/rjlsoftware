@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3] - 10-08-2026 at 6:21pm
+
+- Dropped a vendor-specific AI coding tool from the intro's CI/CD tool list and from the Tech Journey blurb, so the profile reads as multi-model rather than tied to one vendor.
+- Re-rendered the Tech Journey feature card from RJL.pub's book-cover preview instead of its social preview, whose baked-in tagline named that same tool.
+
 ## [1.0.2] - 10-08-2026 at 6:05pm
 
 - Refreshed the Jimmy Ketchup humor card from the site's new OG image ("Small packet. Big adventures.") and updated its alt text to match.
