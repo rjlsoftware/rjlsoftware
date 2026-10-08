@@ -1,0 +1,35 @@
+{
+  "_comment": "slug -> source OG image on disk and rendered width. Every card renders at the 1200x630 aspect (1.905:1) so rows line up. Widths: 1000 for 2-up rows, 720 for 3-up rows, 1600 for full width. A 3-up card that Compress-PNG cannot quantize (its 85% quality floor vetoes it) renders at 600 instead to stay under the size budget; it still displays at the same 32% width.",
+  "cards": [
+    { "slug": "rjl-ai", "width": 1000, "src": "C:/WebSites/rjl.ai/public/rjl-ai-view.png" },
+    { "slug": "intentengineering", "width": 1000, "src": "C:/WebSites/intentengineering.dev/public/og-image.png" },
+    { "slug": "rjl-bio", "width": 1000, "src": "C:/WebSites/rjlindelof.com/public/images/rj-lindelof-preview.png" },
+    { "slug": "rjl-dev", "width": 1000, "src": "C:/WebSites/rjl.dev/src/assets/img/rjldev-cover.png" },
+    { "slug": "rjl-guru", "width": 1000, "src": "C:/WebSites/rjl.guru/src/assets/img/rjl-guru-preview.png" },
+    { "slug": "aidlc-guru", "width": 1000, "src": "C:/WebSites/aidlc.guru/public/images/aidlc-guru-og.png" },
+
+    { "slug": "rjl-pub", "width": 1600, "src": "C:/WebSites/rjl.pub/public/img/rjl-pub-preview.png" },
+
+    { "slug": "rjl-io", "width": 1000, "src": "C:/WebSites/rjl.io/public/images/rjl-io-preview.png" },
+    { "slug": "rjlcustom404", "width": 1000, "src": "C:/WebSites/rjl.codes/public/img/readme-hero.png" },
+    { "slug": "nowutc", "width": 720, "src": "C:/WebSites/nowutc.com/public/images/og-image.png" },
+    { "slug": "oldclock", "width": 720, "src": "C:/WebSites/oldclock.digital/public/oldclock-digital-preview.png" },
+    { "slug": "asciilogo", "width": 720, "src": "C:/WebSites/ASCII Logo/public/og-image.png" },
+    { "slug": "esmodules", "width": 720, "src": "C:/WebSites/esmodules.com/public/img/esmodule-preview.png" },
+    { "slug": "jsonl-rest", "width": 720, "src": "C:/WebSites/jsonl.rest/public/images/og-jsonl.rest.png" },
+    { "slug": "json5", "width": 720, "src": "C:/WebSites/json5.dev/public/json5/images/site-preview.png" },
+    { "slug": "newstack-dev", "width": 720, "src": "C:/WebSites/newstack.dev/public/img/newstack-cover.png" },
+    { "slug": "newstack-ai", "width": 720, "src": "C:/WebSites/newstack.ai/public/img/newstackai-with-text.png" },
+    { "slug": "techdebt-guru", "width": 720, "src": "C:/WebSites/techdebt.fail/public/images/techdebt-guru-preview.png" },
+
+    { "slug": "rjl-sh", "width": 720, "src": "C:/WebSites/rjl.sh/public/img/rjl-sh-preview.png" },
+    { "slug": "squirrelstack", "width": 720, "src": "C:/WebSites/squirrelstack.dev/public/img/squirrel-stack-preview.png" },
+    { "slug": "waterfallconf", "width": 720, "src": "C:/WebSites/waterfallconf.com/public/assets/img/annual-conference.png" },
+    { "slug": "costlymeeting", "width": 720, "src": "C:/WebSites/costlymeeting.com/public/img/costlymeeting.png" },
+    { "slug": "bestjob", "width": 720, "src": "C:/WebSites/bestjob.work/public/img/best-jobs-preview.png" },
+    { "slug": "longwebsitename", "width": 720, "src": "C:/WebSites/thisisalongwebsitename.fyi/public/images/preview-image.png" },
+    { "slug": "jimmyketchup", "width": 600, "src": "C:/WebSites/jimmyketchup.com/public/images/jimmy-ketchup-og.png" },
+    { "slug": "fakenewsmaker", "width": 600, "src": "C:/WebSites/fakenewsmaker.com/public/fake-news-maker-preview.png" },
+    { "slug": "gen2", "width": 720, "src": "C:/WebSites/gen2.at/public/gen2-preview.png" }
+  ]
+}

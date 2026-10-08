@@ -1,0 +1,14 @@
+{
+  "name": "rjlsoftware-profile",
+  "private": true,
+  "description": "GitHub profile README for rjlsoftware, plus the scripts that render its images.",
+  "scripts": {
+    "images": "node scripts/render-readme-images.js && npm run compress",
+    "compress": "pwsh -NoProfile -ExecutionPolicy Bypass -File \"C:/tools/build-helper/Powershell scripts/Compress-PNG.ps1\" -Path assets -NoPause",
+    "preview": "node scripts/preview-readme.js",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  }
+}
