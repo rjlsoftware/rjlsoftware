@@ -69,7 +69,8 @@ Hands-on output keeps the leadership honest.
 </p>
 
 <p align="center"><sub>
-  <a href="https://github.com/rjlsoftware/RJLCustom404">RJLCustom404</a> docs at <a href="https://rjl.codes/">RJL.codes</a> (MIT)
+  <a href="https://github.com/rjlsoftware/RJLCustom404">RJLCustom404</a> docs at <a href="https://rjl.codes/">RJL.codes</a> (MIT) &nbsp;|&nbsp;
+  <a href="https://github.com/rjlsoftware/rjl-rain">rjl-rain</a> Matrix rain in one file (MIT)
   <br>
   Also: <a href="https://aicoaster.dev/">AICoaster.dev</a> a pixel-art ride through learning AI &nbsp;|&nbsp;
   <a href="https://infragap.com/">InfraGap.com</a> dev workstations built for AI agents &nbsp;|&nbsp;
@@ -98,6 +99,12 @@ Shipping serious software does not require taking yourself seriously. :joy:
   <br>
   Also: <a href="https://halfgan.com/">HalfGAN.com</a> &nbsp;|&nbsp;
   <a href="https://pranksstore.com/">PranksStore.com</a>
+</sub></p>
+
+<a href="https://rjl.sh/"><img src="assets/rain.svg" alt="Matrix rain from RJL.sh, the falling drops spelling RJL" width="100%"></a>
+
+<p align="center"><sub>
+  The rain is <a href="https://github.com/rjlsoftware/rjl-rain">rjl-rain</a>, open source (MIT), straight from <a href="https://rjl.sh/">RJL.sh</a>
 </sub></p>
 
 ---

@@ -6,6 +6,7 @@
     "images": "node scripts/render-readme-images.js && npm run compress",
     "compress": "pwsh -NoProfile -ExecutionPolicy Bypass -File \"C:/tools/build-helper/Powershell scripts/Compress-PNG.ps1\" -Path assets -NoPause",
     "preview": "node scripts/preview-readme.js",
+    "rain": "node C:/WebSites/rjl-rain/scripts/render-svg.js --out assets/rain.svg --width 960 --height 200 --title \"Matrix rain from RJL.sh, the falling drops spelling RJL\"",
     "test": "playwright test"
   },
   "devDependencies": {

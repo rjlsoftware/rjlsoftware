@@ -64,6 +64,15 @@ test('cards.json and README agree, and each card has its rendered size', () => {
     }
 });
 
+test('the rain banner is a script-free animated SVG with a still frame for reduced motion', () => {
+    const svg = fs.readFileSync(path.join(ROOT, 'assets', 'rain.svg'), 'utf8');
+    expect(svg.startsWith('<svg ')).toBe(true);
+    expect(svg).not.toMatch(/<script/i);
+    expect(svg).toContain('@keyframes');
+    expect(svg).toContain('prefers-reduced-motion');
+    expect([...svg].every((ch) => ch.charCodeAt(0) < 128)).toBe(true);
+});
+
 test('grid rows use matching widths', () => {
     const widths = new Set(IMG_TAGS.filter((t) => (attr(t, 'src') || '').startsWith('assets/')).map((t) => attr(t, 'width')));
     expect([...widths].sort()).toEqual(['100%', '32%', '49%']);

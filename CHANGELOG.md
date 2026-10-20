@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.4] - 10-20-2026 at 6:38pm
+
+- Added an animated Matrix rain banner at the foot of the profile, linked to RJL.sh, with a caption crediting rjl-rain, the newly open-sourced (MIT) library it comes from. It is a script-free SVG that animates with CSS and shows a still frame to visitors who prefer reduced motion. `npm run rain` re-renders it with the rjl-rain renderer.
+- Added rjl-rain to the tools caption line next to RJLCustom404, and a guard test for the banner (script-free, animated, reduced-motion still frame, ASCII only).
+
 ## [1.0.3] - 10-08-2026 at 6:21pm
 
 - Dropped a vendor-specific AI coding tool from the intro's CI/CD tool list and from the Tech Journey blurb, so the profile reads as multi-model rather than tied to one vendor.
